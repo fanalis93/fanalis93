@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fayek Alvi Rahman Jaki</h1>
 - 🔭 I’m currently an Software Engineer Intern at [EBI Resources](http://www.ebi.net.my/)
-- 
+
 - 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs, NodeJs (MERN Stack)**
 
 <h3 align="left">Connect with me:</h3>
