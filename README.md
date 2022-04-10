@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://linkedin.com/in/mustafizur-rahman-choudhury-865089153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafizur-rahman-choudhury-865089153/" height="30" width="40" /></a>
+
 [![Fanalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanalis93)](https://github.com/fanalis93/github-readme-stats)
