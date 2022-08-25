@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently an Software Engineer Intern at [EBI Resources](http://www.ebi.net.my/)
 
-- 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs, NodeJs (MERN Stack)**
+- 🌱 I’m currently learning **VueJS + Laravel + Wordpress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
