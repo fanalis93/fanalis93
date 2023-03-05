@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **OLT Digital Agency**
 
-- 🌱 I’m currently learning **VueJS + Laravel + WordPress Plugin Development**
+- 🌱 I’m currently learning **ReactJS + Laravel + WordPress Plugin Development**
 
 - 📫 How to reach me **jaki.fayek@live.iium.edu.my**
 
