@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS + Laravel + WordPress Plugin Development**
 
-- 📫 How to reach me **jaki.fayek@live.iium.edu.my**
+- 📫 How to reach me **fayek.lucse44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanalis93&show_icons=true&locale=en" alt="fanalis93" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanalis93&" alt="fanalis93" /></p>
-
